@@ -23,7 +23,7 @@ Build Details
 =====================================
 The PCB must be ordered (e.g. from jlcpcb) in 1.6mm thickness with surface finish ENIG at minimum.
 
-You'll want to Lay the Card slot adapter pcb center over top of the module making the module and pcb as flush together as possible and solder pin by pin the module to the pcb.
+You'll want to lay the Card slot adapter pcb center over top of the module making the module and pcb as flush together as possible and solder pin by pin the module to the pcb.
 
 **3D Printed Case Enclosure**
 
