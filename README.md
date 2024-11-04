@@ -2,6 +2,7 @@
 WizNet Card Slot Adapter for the Nintendo Gamecube Front Memory card slots based on the ETH2GC project by webhdx + Extrems utilizing either the W5500/W6100 mini modules found on Aliexpress, etc.
 
 Must be used with Swiss-gc
+
 Use Swiss artifact build 1744+ it has the new hypervisor driver for W6100 and W5500 allowing you to use it for Mario Kart LAN etc.
 
 Aliexpress Links
