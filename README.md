@@ -5,7 +5,8 @@ Must be used with Swiss-gc
 
 Use Swiss artifact build 1744+ it has the new hypervisor driver for W6100 and W5500 allowing you to use it for Mario Kart LAN etc.
 
-Aliexpress Links
+**Aliexpress Links**
+
 W6100 Mini Module
 https://www.aliexpress.us/item/3256805107146668.html
 
