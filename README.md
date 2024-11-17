@@ -5,6 +5,11 @@ Must be used with Swiss-gc
 
 Use Swiss artifact build 1744+ it has the new hypervisor driver for W6100 and W5500 allowing you to use it for Mario Kart LAN etc.
 
+**Assembly Video**
+
+https://youtu.be/p_-DQ5K5pyQ
+
+
 **Aliexpress Links**
 
 W6100 Mini Module
@@ -24,6 +29,7 @@ Build Details
 The PCB must be ordered (e.g. from jlcpcb) in 1.6mm thickness with surface finish ENIG at minimum.
 
 You'll want to lay the Card slot adapter pcb center over top of the module making the module and pcb as flush together as possible and solder pin by pin the module to the pcb.
+
 
 **3D Printed Case Enclosure**
 
