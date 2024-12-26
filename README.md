@@ -3,7 +3,7 @@ WizNet Card Slot Adapter for the Nintendo Gamecube Front Memory card slots based
 
 Must be used with Swiss-gc
 
-Use Swiss build 1788 or the latetest ~~artifact build 1744+~~  it has the new hypervisor driver for W6100 and W5500 allowing you to use it for Mario Kart LAN etc.
+Use Swiss build 1788 or the latest ~~artifact build 1744+~~  it has the new hypervisor driver for W6100 and W5500 allowing you to use it for Mario Kart LAN etc.
 
 **Assembly Video**
 
