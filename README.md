@@ -22,6 +22,7 @@ Snips used for trimming pieces of pcb/pin headers.
 https://www.aliexpress.us/item/2251832627908078.html
 
 Screws 2x5MM
+https://www.aliexpress.us/item/3256802919903942.html
 https://www.aliexpress.us/item/3256806490428816.html
 
 Build Details
